@@ -1,0 +1,4 @@
+%{
+  "metrix": {:git, "https://github.com/LeToteTeam/metrix.git", "702540ff9d176a4a1aa904665a726cf1f2ad3407", []},
+  "statix": {:hex, :statix, "1.1.0", "af9a4586c5cd58f879e0595f06a4790878715de5b8f75f6346693aaa38da2424", [:mix], [], "hexpm"},
+}
